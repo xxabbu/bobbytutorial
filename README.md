@@ -1,2 +1,2 @@
 # bobbytutorial
-following bobby's tutorial at the raglan retreat
+following bobby's tutorial at the raj lab retreat
